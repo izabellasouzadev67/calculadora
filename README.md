@@ -78,7 +78,7 @@ Este projeto não está associado a uma licença específica no momento. (Nenhum
 
 ## 🔗 Links Importantes
 
-*   **Repositório:** [https://github.com/izabellasouzadev67/calculadora](https://github.com/izabellasouzadev67/calculadora)
+*   **Repositório:** [[https://github.com/izabellasouzadev67/calculadora](https://github.com/izabellasouzadev67/calculadora)](https://izabellasouzadev67.github.io/calculadora/)
 
 ## 🌟 Rodapé
 
