@@ -1,0 +1,25 @@
+body {
+    text-align:center;
+    font-family:Arial,sans-serif;
+    padding-top:60px;
+}
+
+input{
+    font-size:24px;
+    width:160px;
+    padding:8px;
+}
+
+.botoes{
+    margin:20px;
+}
+
+button{
+    font-size:28px;
+    width:60px;
+}
+
+#resultado {
+font-size: 24px;
+  font-weight: bold;
+}
